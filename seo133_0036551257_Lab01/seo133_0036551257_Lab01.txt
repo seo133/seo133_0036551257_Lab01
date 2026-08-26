@@ -1,0 +1,6 @@
+﻿Build started at 2:06 PM...
+1>------ Build started: Project: seo133_0036551257_Lab01, Configuration: Debug x64 ------
+1>  seo133_0036551257_Lab01.cpp
+1>  seo133_0036551257_Lab01.vcxproj -> C:\Users\seo133\source\repos\seo133_0036551257_Lab01\x64\Debug\seo133_0036551257_Lab01.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:06 PM and took 00.941 seconds ==========
